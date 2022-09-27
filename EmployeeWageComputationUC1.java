@@ -1,0 +1,25 @@
+package day_10_assignments;
+
+public class EmployeeWageComputationUC1 {
+
+	public static void main(String[] args) {
+
+		int num;
+		int min = 0;
+		int max = 5;
+		num = (int) (Math.random () );
+		if (num <=1)
+		{
+			System.out.println("Employee is present");	
+		}
+		else if (num < 1)
+		{
+			System.out.println("Employee is Absent");
+		}
+		else
+		{
+			System.out.println( "" );
+		}
+
+	}
+}
